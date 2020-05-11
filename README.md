@@ -25,7 +25,7 @@
 
 
 ### Notes
-The emulator is not running, I have anything I need to run it in the codes. 
+THis is challenging due to having a old laptop. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
